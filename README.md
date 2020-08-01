@@ -67,7 +67,7 @@ sudo apt-get install libxt6 libxrender1 libgl1-mesa-glx libqt5widgets5
    - Delete the installation file
      ```bash
      pip install --upgrade --force-reinstall pyzmq
-     rm Anaconda3-2020.02-Linux-x86_64.sh
+     rm Anaconda3-2020.07-Linux-x86_64.sh
      ```
 
 4. Install Julia
