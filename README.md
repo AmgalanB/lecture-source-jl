@@ -56,8 +56,8 @@ sudo apt-get install libxt6 libxrender1 libgl1-mesa-glx libqt5widgets5
 
    -  In the Ubuntu terminal, first install python/etc. tools
    ```bash
-   wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
-   bash Anaconda3-2020.02-Linux-x86_64.sh
+   wget https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
+   bash Anaconda3-2020.07-Linux-x86_64.sh
    ```
    -  Create a directory `.conda` by running `mkdir ~/.conda` if the warning "Unable to register the environment" shows up
 3. The installation will take time. You should:
